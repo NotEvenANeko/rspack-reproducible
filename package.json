@@ -1,0 +1,16 @@
+{
+  "name": "rspack-reproducible",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "rspack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rspack/cli": "^0.5.4",
+    "@rspack/core": "^0.5.4"
+  }
+}
